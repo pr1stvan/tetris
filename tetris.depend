@@ -1,0 +1,584 @@
+# depslib dependency file v1.0
+1354807382 source:c:\vik\tetris\tetris\main.c
+	<SDL.h>
+	<SDL_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<SDL_ttf.h>
+	<string.h>
+
+1350218788 c:\program files (x86)\codeblocks\mingw\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350218794 c:\program files (x86)\codeblocks\mingw\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350218796 c:\program files (x86)\codeblocks\mingw\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1350218790 c:\program files (x86)\codeblocks\mingw\include\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1350218796 c:\program files (x86)\codeblocks\mingw\include\sdl_platform.h
+
+1250305082 c:\program files (x86)\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1250305074 c:\program files (x86)\codeblocks\mingw\include\_mingw.h
+
+1250305080 c:\program files (x86)\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1250305080 c:\program files (x86)\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1250305078 c:\program files (x86)\codeblocks\mingw\include\malloc.h
+	<_mingw.h>
+	<stdlib.h>
+
+1250305078 c:\program files (x86)\codeblocks\mingw\include\memory.h
+	<string.h>
+
+1250305080 c:\program files (x86)\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1250305080 c:\program files (x86)\codeblocks\mingw\include\strings.h
+	<string.h>
+
+1250305076 c:\program files (x86)\codeblocks\mingw\include\inttypes.h
+	<_mingw.h>
+	<stdint.h>
+	<stddef.h>
+
+1250305080 c:\program files (x86)\codeblocks\mingw\include\stdint.h
+	<stddef.h>
+
+1250305076 c:\program files (x86)\codeblocks\mingw\include\ctype.h
+	<_mingw.h>
+	<stddef.h>
+
+1350218788 c:\program files (x86)\codeblocks\mingw\include\begin_code.h
+
+1350218788 c:\program files (x86)\codeblocks\mingw\include\close_code.h
+
+1350218790 c:\program files (x86)\codeblocks\mingw\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350218792 c:\program files (x86)\codeblocks\mingw\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350218792 c:\program files (x86)\codeblocks\mingw\include\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350218794 c:\program files (x86)\codeblocks\mingw\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350218796 c:\program files (x86)\codeblocks\mingw\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1250305078 c:\program files (x86)\codeblocks\mingw\include\process.h
+	<_mingw.h>
+	<sys/types.h>
+	<stdint.h>
+
+1350218796 c:\program files (x86)\codeblocks\mingw\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350218790 c:\program files (x86)\codeblocks\mingw\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350218792 c:\program files (x86)\codeblocks\mingw\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350218792 c:\program files (x86)\codeblocks\mingw\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350218788 c:\program files (x86)\codeblocks\mingw\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350218794 c:\program files (x86)\codeblocks\mingw\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350218794 c:\program files (x86)\codeblocks\mingw\include\sdl_keysym.h
+
+1350218794 c:\program files (x86)\codeblocks\mingw\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350218798 c:\program files (x86)\codeblocks\mingw\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350218792 c:\program files (x86)\codeblocks\mingw\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350218796 c:\program files (x86)\codeblocks\mingw\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1350218794 c:\program files (x86)\codeblocks\mingw\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350218798 c:\program files (x86)\codeblocks\mingw\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350218798 c:\program files (x86)\codeblocks\mingw\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1336970606 c:\program files (x86)\codeblocks\mingw\include\sdl_gfxprimitives.h
+	<math.h>
+	"SDL.h"
+
+1250305078 c:\program files (x86)\codeblocks\mingw\include\math.h
+	<_mingw.h>
+
+1250305080 c:\program files (x86)\codeblocks\mingw\include\time.h
+	<_mingw.h>
+	<stddef.h>
+
+1325789580 c:\program files (x86)\codeblocks\mingw\include\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1354836956 source:c:\users\m4st3r pr1st\desktop\szoftlab házi\tetris\main.c
+	"header.h"
+
+1354822169 source:c:\users\m4st3r pr1st\desktop\szoftlab házi\tetris\menu.c
+	"header.h"
+
+1354834539 c:\users\m4st3r pr1st\desktop\szoftlab házi\tetris\header.h
+	<SDL.h>
+	<SDL_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<SDL_ttf.h>
+	<string.h>
+	<math.h>
+	"enum_struct.h"
+	"menu.h"
+	"rajz_menu.h"
+	"elemlista.h"
+	"rajz_jatek.h"
+	"jatek.h"
+	"eredmenylista.h"
+	"rajz_eredmenylista.h"
+	"ora.h"
+	"infoc_fuggvenyek.h"
+
+1354819359 c:\users\m4st3r pr1st\desktop\szoftlab házi\tetris\enum_struct.h
+
+1354819359 c:\users\m4st3r pr1st\desktop\szoftlab házi\tetris\menu.h
+
+1354832159 c:\users\m4st3r pr1st\desktop\szoftlab házi\tetris\rajz_menu.h
+
+1354819831 c:\users\m4st3r pr1st\desktop\szoftlab házi\tetris\elemlista.h
+
+1354817432 c:\users\m4st3r pr1st\desktop\szoftlab házi\tetris\rajz_jatek.h
+
+1354840411 c:\users\m4st3r pr1st\desktop\szoftlab házi\tetris\jatek.h
+
+1354823341 c:\users\m4st3r pr1st\desktop\szoftlab házi\tetris\eredmenylista.h
+
+1354819359 c:\users\m4st3r pr1st\desktop\szoftlab házi\tetris\rajz_eredmenylista.h
+
+1354819359 c:\users\m4st3r pr1st\desktop\szoftlab házi\tetris\ora.h
+
+1354821803 source:c:\users\m4st3r pr1st\desktop\szoftlab házi\tetris\meret_lekerdez.c
+	"header.h"
+
+1354822838 source:c:\users\m4st3r pr1st\desktop\szoftlab házi\tetris\elemlista.c
+	"header.h"
+
+1354823341 source:c:\users\m4st3r pr1st\desktop\szoftlab házi\tetris\eredmenylista.c
+	"header.h"
+
+1354839754 source:c:\users\m4st3r pr1st\desktop\szoftlab házi\tetris\highscore.c
+	"header.h"
+
+1354826233 source:c:\users\m4st3r pr1st\desktop\szoftlab házi\tetris\menurendszer.c
+	"header.h"
+
+1354840938 source:c:\users\m4st3r pr1st\desktop\szoftlab házi\tetris\rajz_menu.c
+	"header.h"
+
+1354841574 source:c:\users\m4st3r pr1st\desktop\szoftlab házi\tetris\rajz_eredmenylista.c
+	"header.h"
+
+1354866507 source:c:\users\m4st3r pr1st\desktop\szoftlab házi\tetris\rajz_jatek.c
+	"header.h"
+
+1354828571 source:c:\users\m4st3r pr1st\desktop\szoftlab házi\tetris\jatek_segedfuggveny.c
+	"header.h"
+
+1354840603 source:c:\users\m4st3r pr1st\desktop\szoftlab házi\tetris\jatek.c
+	"header.h"
+
+1354838416 c:\users\m4st3r pr1st\desktop\szoftlab házi\tetris\infoc_fuggvenyek.h
+
+1354836702 source:c:\users\m4st3r pr1st\desktop\szoftlab házi\tetris\infoc_fuggvenyek.c
+	"header.h"
+
+1354838715 source:c:\users\m4st3r pr1st\desktop\szoftlab házi\tetris\infoc_nevbekero.c
+	"header.h"
+
+1354840889 source:c:\users\m4st3r pr1st\desktop\szoftlab házi\tetris\game_over.c
+	"header.h"
+
+1354822838 source:c:\users\m4st3r pr1st\desktop\tetris\tetris\elemlista.c
+	"header.h"
+
+1354834539 c:\users\m4st3r pr1st\desktop\tetris\tetris\header.h
+	<SDL.h>
+	<SDL_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<SDL_ttf.h>
+	<string.h>
+	<math.h>
+	"enum_struct.h"
+	"menu.h"
+	"rajz_menu.h"
+	"elemlista.h"
+	"rajz_jatek.h"
+	"jatek.h"
+	"eredmenylista.h"
+	"rajz_eredmenylista.h"
+	"ora.h"
+	"infoc_fuggvenyek.h"
+
+1354819359 c:\users\m4st3r pr1st\desktop\tetris\tetris\enum_struct.h
+
+1354819359 c:\users\m4st3r pr1st\desktop\tetris\tetris\menu.h
+
+1354832159 c:\users\m4st3r pr1st\desktop\tetris\tetris\rajz_menu.h
+
+1354819831 c:\users\m4st3r pr1st\desktop\tetris\tetris\elemlista.h
+
+1354817432 c:\users\m4st3r pr1st\desktop\tetris\tetris\rajz_jatek.h
+
+1354840411 c:\users\m4st3r pr1st\desktop\tetris\tetris\jatek.h
+
+1354823341 c:\users\m4st3r pr1st\desktop\tetris\tetris\eredmenylista.h
+
+1354819359 c:\users\m4st3r pr1st\desktop\tetris\tetris\rajz_eredmenylista.h
+
+1354819359 c:\users\m4st3r pr1st\desktop\tetris\tetris\ora.h
+
+1354838416 c:\users\m4st3r pr1st\desktop\tetris\tetris\infoc_fuggvenyek.h
+
+1354874835 source:c:\users\m4st3r pr1st\desktop\tetris\tetris\eredmenylista.c
+	"header.h"
+
+1354840889 source:c:\users\m4st3r pr1st\desktop\tetris\tetris\game_over.c
+	"header.h"
+
+1354839754 source:c:\users\m4st3r pr1st\desktop\tetris\tetris\highscore.c
+	"header.h"
+
+1354836702 source:c:\users\m4st3r pr1st\desktop\tetris\tetris\infoc_fuggvenyek.c
+	"header.h"
+
+1354912592 source:c:\users\m4st3r pr1st\desktop\tetris\tetris\infoc_nevbekero.c
+	"header.h"
+
+1354912097 source:c:\users\m4st3r pr1st\desktop\tetris\tetris\jatek.c
+	"header.h"
+
+1354828571 source:c:\users\m4st3r pr1st\desktop\tetris\tetris\jatek_segedfuggveny.c
+	"header.h"
+
+1354836956 source:c:\users\m4st3r pr1st\desktop\tetris\tetris\main.c
+	"header.h"
+
+1354826233 source:c:\users\m4st3r pr1st\desktop\tetris\tetris\menurendszer.c
+	"header.h"
+
+1354821803 source:c:\users\m4st3r pr1st\desktop\tetris\tetris\meret_lekerdez.c
+	"header.h"
+
+1354841574 source:c:\users\m4st3r pr1st\desktop\tetris\tetris\rajz_eredmenylista.c
+	"header.h"
+
+1354866507 source:c:\users\m4st3r pr1st\desktop\tetris\tetris\rajz_jatek.c
+	"header.h"
+
+1354840938 source:c:\users\m4st3r pr1st\desktop\tetris\tetris\rajz_menu.c
+	"header.h"
+
+1354913767 source:c:\users\m4st3r pr1st\desktop\a javított változat\tetris\elemlista.c
+	"header.h"
+
+1354834539 c:\users\m4st3r pr1st\desktop\a javított változat\tetris\header.h
+	<SDL.h>
+	<SDL_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<SDL_ttf.h>
+	<string.h>
+	<math.h>
+	"enum_struct.h"
+	"menu.h"
+	"rajz_menu.h"
+	"elemlista.h"
+	"rajz_jatek.h"
+	"jatek.h"
+	"eredmenylista.h"
+	"rajz_eredmenylista.h"
+	"ora.h"
+	"infoc_fuggvenyek.h"
+
+1354819359 c:\users\m4st3r pr1st\desktop\a javított változat\tetris\enum_struct.h
+
+1354819359 c:\users\m4st3r pr1st\desktop\a javított változat\tetris\menu.h
+
+1354832159 c:\users\m4st3r pr1st\desktop\a javított változat\tetris\rajz_menu.h
+
+1354819831 c:\users\m4st3r pr1st\desktop\a javított változat\tetris\elemlista.h
+
+1354817432 c:\users\m4st3r pr1st\desktop\a javított változat\tetris\rajz_jatek.h
+
+1354840411 c:\users\m4st3r pr1st\desktop\a javított változat\tetris\jatek.h
+
+1354823341 c:\users\m4st3r pr1st\desktop\a javított változat\tetris\eredmenylista.h
+
+1354819359 c:\users\m4st3r pr1st\desktop\a javított változat\tetris\rajz_eredmenylista.h
+
+1354819359 c:\users\m4st3r pr1st\desktop\a javított változat\tetris\ora.h
+
+1354838416 c:\users\m4st3r pr1st\desktop\a javított változat\tetris\infoc_fuggvenyek.h
+
+1354913788 source:c:\users\m4st3r pr1st\desktop\a javított változat\tetris\eredmenylista.c
+	"header.h"
+
+1354913856 source:c:\users\m4st3r pr1st\desktop\a javított változat\tetris\game_over.c
+	"header.h"
+
+1354913915 source:c:\users\m4st3r pr1st\desktop\a javított változat\tetris\highscore.c
+	"header.h"
+
+1354836702 source:c:\users\m4st3r pr1st\desktop\a javított változat\tetris\infoc_fuggvenyek.c
+	"header.h"
+
+1354913645 source:c:\users\m4st3r pr1st\desktop\a javított változat\tetris\infoc_nevbekero.c
+	"header.h"
+
+1354914104 source:c:\users\m4st3r pr1st\desktop\a javított változat\tetris\jatek.c
+	"header.h"
+
+1354914194 source:c:\users\m4st3r pr1st\desktop\a javított változat\tetris\jatek_segedfuggveny.c
+	"header.h"
+
+1354914206 source:c:\users\m4st3r pr1st\desktop\a javított változat\tetris\main.c
+	"header.h"
+
+1354914301 source:c:\users\m4st3r pr1st\desktop\a javított változat\tetris\menurendszer.c
+	"header.h"
+
+1354914337 source:c:\users\m4st3r pr1st\desktop\a javított változat\tetris\meret_lekerdez.c
+	"header.h"
+
+1354914522 source:c:\users\m4st3r pr1st\desktop\a javított változat\tetris\rajz_jatek.c
+	"header.h"
+
+1354915543 source:c:\users\m4st3r pr1st\desktop\a javított változat\tetris\rajz_menu.c
+	"header.h"
+
+1354914487 source:c:\users\m4st3r pr1st\desktop\a javított változat\tetris\rajz_eredmenylista.c
+	"header.h"
+
+1354913767 source:c:\users\m4st3r pr1st\desktop\jav_tetris\elemlista.c
+	"header.h"
+
+1354834539 c:\users\m4st3r pr1st\desktop\jav_tetris\header.h
+	<SDL.h>
+	<SDL_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<SDL_ttf.h>
+	<string.h>
+	<math.h>
+	"enum_struct.h"
+	"menu.h"
+	"rajz_menu.h"
+	"elemlista.h"
+	"rajz_jatek.h"
+	"jatek.h"
+	"eredmenylista.h"
+	"rajz_eredmenylista.h"
+	"ora.h"
+	"infoc_fuggvenyek.h"
+
+1354819359 c:\users\m4st3r pr1st\desktop\jav_tetris\enum_struct.h
+
+1354819359 c:\users\m4st3r pr1st\desktop\jav_tetris\menu.h
+
+1354832159 c:\users\m4st3r pr1st\desktop\jav_tetris\rajz_menu.h
+
+1354819831 c:\users\m4st3r pr1st\desktop\jav_tetris\elemlista.h
+
+1354817432 c:\users\m4st3r pr1st\desktop\jav_tetris\rajz_jatek.h
+
+1354840411 c:\users\m4st3r pr1st\desktop\jav_tetris\jatek.h
+
+1354823341 c:\users\m4st3r pr1st\desktop\jav_tetris\eredmenylista.h
+
+1354819359 c:\users\m4st3r pr1st\desktop\jav_tetris\rajz_eredmenylista.h
+
+1354819359 c:\users\m4st3r pr1st\desktop\jav_tetris\ora.h
+
+1354838416 c:\users\m4st3r pr1st\desktop\jav_tetris\infoc_fuggvenyek.h
+
+1354913788 source:c:\users\m4st3r pr1st\desktop\jav_tetris\eredmenylista.c
+	"header.h"
+
+1354913856 source:c:\users\m4st3r pr1st\desktop\jav_tetris\game_over.c
+	"header.h"
+
+1354913915 source:c:\users\m4st3r pr1st\desktop\jav_tetris\highscore.c
+	"header.h"
+
+1354836702 source:c:\users\m4st3r pr1st\desktop\jav_tetris\infoc_fuggvenyek.c
+	"header.h"
+
+1354913645 source:c:\users\m4st3r pr1st\desktop\jav_tetris\infoc_nevbekero.c
+	"header.h"
+
+1355956276 source:c:\users\m4st3r pr1st\desktop\jav_tetris\jatek.c
+	"header.h"
+
+1354914194 source:c:\users\m4st3r pr1st\desktop\jav_tetris\jatek_segedfuggveny.c
+	"header.h"
+
+1354914206 source:c:\users\m4st3r pr1st\desktop\jav_tetris\main.c
+	"header.h"
+
+1354914301 source:c:\users\m4st3r pr1st\desktop\jav_tetris\menurendszer.c
+	"header.h"
+
+1354914337 source:c:\users\m4st3r pr1st\desktop\jav_tetris\meret_lekerdez.c
+	"header.h"
+
+1354914487 source:c:\users\m4st3r pr1st\desktop\jav_tetris\rajz_eredmenylista.c
+	"header.h"
+
+1354914522 source:c:\users\m4st3r pr1st\desktop\jav_tetris\rajz_jatek.c
+	"header.h"
+
+1354915543 source:c:\users\m4st3r pr1st\desktop\jav_tetris\rajz_menu.c
+	"header.h"
+

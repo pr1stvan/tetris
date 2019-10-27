@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="elemlista.c" open="1" top="0" tabpos="3">
+		<Cursor position="147" topLine="0" />
+	</File>
+	<File name="elemlista.h" open="0" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="enum_struct.h" open="0" top="0" tabpos="4">
+		<Cursor position="80" topLine="0" />
+	</File>
+	<File name="eredmenylista.c" open="1" top="0" tabpos="11">
+		<Cursor position="937" topLine="23" />
+	</File>
+	<File name="eredmenylista.h" open="0" top="0" tabpos="5">
+		<Cursor position="90" topLine="0" />
+	</File>
+	<File name="game_over.c" open="1" top="0" tabpos="15">
+		<Cursor position="1149" topLine="19" />
+	</File>
+	<File name="header.h" open="1" top="0" tabpos="9">
+		<Cursor position="225" topLine="0" />
+	</File>
+	<File name="highscore.c" open="1" top="0" tabpos="12">
+		<Cursor position="532" topLine="0" />
+	</File>
+	<File name="infoc_fuggvenyek.c" open="1" top="0" tabpos="7">
+		<Cursor position="334" topLine="0" />
+	</File>
+	<File name="infoc_fuggvenyek.h" open="1" top="0" tabpos="6">
+		<Cursor position="356" topLine="0" />
+	</File>
+	<File name="infoc_nevbekero.c" open="1" top="0" tabpos="17">
+		<Cursor position="3585" topLine="69" />
+	</File>
+	<File name="jatek.c" open="1" top="1" tabpos="1">
+		<Cursor position="3821" topLine="124" />
+	</File>
+	<File name="jatek.h" open="1" top="0" tabpos="13">
+		<Cursor position="170" topLine="0" />
+	</File>
+	<File name="jatek_segedfuggveny.c" open="1" top="0" tabpos="18">
+		<Cursor position="260" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="10">
+		<Cursor position="948" topLine="18" />
+	</File>
+	<File name="menu.h" open="0" top="0" tabpos="6">
+		<Cursor position="54" topLine="0" />
+	</File>
+	<File name="menurendszer.c" open="1" top="0" tabpos="4">
+		<Cursor position="5765" topLine="150" />
+	</File>
+	<File name="meret_lekerdez.c" open="1" top="0" tabpos="14">
+		<Cursor position="5515" topLine="133" />
+	</File>
+	<File name="rajz_eredmenylista.c" open="1" top="0" tabpos="8">
+		<Cursor position="889" topLine="23" />
+	</File>
+	<File name="rajz_eredmenylista.h" open="0" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="rajz_jatek.c" open="1" top="0" tabpos="16">
+		<Cursor position="401" topLine="132" />
+	</File>
+	<File name="rajz_jatek.h" open="0" top="0" tabpos="8">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="rajz_menu.c" open="1" top="0" tabpos="2">
+		<Cursor position="745" topLine="0" />
+	</File>
+	<File name="rajz_menu.h" open="1" top="0" tabpos="5">
+		<Cursor position="160" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

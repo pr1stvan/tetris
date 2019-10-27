@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="tetris" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\tetris" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\tetris" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="$(#sdl.include)" />
+		</Compiler>
+		<Linker>
+			<Add library="mingw32" />
+			<Add library="SDLmain" />
+			<Add library="SDL.dll" />
+			<Add library="user32" />
+			<Add library="gdi32" />
+			<Add library="winmm" />
+			<Add library="dxguid" />
+			<Add library="SDL_image" />
+			<Add library="SDL_gfx" />
+			<Add library="SDL_ttf" />
+			<Add directory="$(#sdl.lib)" />
+		</Linker>
+		<Unit filename="cb.bmp" />
+		<Unit filename="elemlista.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="elemlista.h" />
+		<Unit filename="enum_struct.h" />
+		<Unit filename="eredmenylista.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="eredmenylista.h" />
+		<Unit filename="game_over.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="header.h" />
+		<Unit filename="highscore.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="infoc_fuggvenyek.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="infoc_fuggvenyek.h" />
+		<Unit filename="infoc_nevbekero.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="jatek.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="jatek.h" />
+		<Unit filename="jatek_segedfuggveny.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.h" />
+		<Unit filename="menurendszer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="meret_lekerdez.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ora.h" />
+		<Unit filename="rajz_eredmenylista.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="rajz_eredmenylista.h" />
+		<Unit filename="rajz_jatek.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="rajz_jatek.h" />
+		<Unit filename="rajz_menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="rajz_menu.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
